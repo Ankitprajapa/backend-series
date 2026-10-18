@@ -1,0 +1,16 @@
+{
+  "name": "bakend-series",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "license": "ISC",
+  "author": "Ankit prajapati",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
